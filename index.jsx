@@ -6,8 +6,12 @@ import About from "./pages/About"
 import Vans from "./pages/Vans/Vans"
 import VanDetail from "./pages/Vans/VanDetail"
 import Layout from "./components/Layout"
+import Home from "./pages/Vans/Home"
+import About from "./pages/Vans/About"
+import Vans from './pages/Vans'
 
 import "./server"
+
 
 function App() {
   return (
